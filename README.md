@@ -1,0 +1,1 @@
+# sonar-gradle-java8
